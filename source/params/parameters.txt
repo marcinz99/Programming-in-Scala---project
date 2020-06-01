@@ -1,0 +1,7 @@
+77 width_px
+39 height_px
+35 iters
+-2.0 bottom_left_x
+-1.0 bottom_left_y
+1.0 upper_right_x
+1.0 upper_right_y
