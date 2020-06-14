@@ -1,0 +1,10 @@
+width_px 77
+height_px 39
+iters 35
+bottom_left_x -2.0
+bottom_left_y -1.0
+upper_right_x 1.0
+upper_right_y 1.0
+exp_width 720
+exp_height 480
+exp_filename exported.pgm

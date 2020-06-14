@@ -1,3 +1,14 @@
-# Work in progess
+run "scala Mandelbrot" to use program
 
-run "scala Appl" to use program
+Commands (self-explaining):
+
+* `quit`
+* `export`
+* `left`
+* `right`
+* `up`
+* `down`
+* `E left`, `E right`
+* `W left`, `W right`
+* `N up`, `N down`
+* `S up`, `S down`
